@@ -13,3 +13,8 @@ Al terminar de modificar los archivos utilizo:
 + git commmiit -m "repetir apartado 3"
 + git branch -M main
 + git push origin master
+
+
+
+### crear el .jar
+
