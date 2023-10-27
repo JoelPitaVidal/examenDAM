@@ -16,5 +16,3 @@ Al terminar de modificar los archivos utilizo:
 
 
 
-### crear el .jar
-
